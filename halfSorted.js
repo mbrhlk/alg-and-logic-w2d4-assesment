@@ -10,9 +10,7 @@ let arr2 = [56, 98, 65, 3, 4, 58, 68, 90, 12, 34, 45]
 
 
 const halfSorted = function(arr) {
-
-};
-
+ 
 
 console.log(halfSorted(arr1));
 
@@ -21,3 +19,9 @@ console.log(halfSorted(arr1));
 console.log(halfSorted(arr2));
 
 //results --> [3, 4, 56, 58, 65, 98, 90, 68, 45, 34, 12]
+
+
+
+
+
+
